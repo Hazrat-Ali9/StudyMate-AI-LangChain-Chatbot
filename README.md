@@ -16,7 +16,7 @@ Pydantic object.
 - Optional **Clear chat** button
 - Friendly missing-key and API error messages
 
-## How the pipeline work
+## How the pipeline works
 
 ```text
 User question
